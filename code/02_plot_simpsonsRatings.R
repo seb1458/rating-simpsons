@@ -6,8 +6,8 @@
 # Packages
 pacman::p_load(tidyverse, forcats, RColorBrewer)
 
-# Working space
-setwd("C:/Users/scheu/Desktop/projects/R/2023/simpsons")
+# Set your working directory
+setwd("Set/path/here")
 
 # ---------------------------------------------------------------------------- #
 #### Visualization: Season Rating Overall ####
